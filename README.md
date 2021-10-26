@@ -7,7 +7,9 @@
 > ### 공공 데이터 포털 [데이터셋 다운로드] ###
   - (지역별 주유소 수) https://www.data.go.kr/data/15038480/fileData.do
   - (알뜰 주유소) https://www.data.go.kr/data/15076635/fileData.do
-  - (직영 주유소) https://www.data.go.kr/data/15084116/fileData.do  <br/>
+  - (직영 주유소) https://www.data.go.kr/data/15084116/fileData.do
+
+<br/>
 
   - (상표별) https://www.data.go.kr/data/15044644/fileData.do
   - (제품별) https://www.data.go.kr/data/15044628/fileData.do
